@@ -3,4 +3,4 @@ Classification of flowers using CNN. This will classify 102 different classes of
 
 My first repository on Github.
 
-The classifier will deploy with webcam in the future.
+The Realtime classification will be processed with WebCam.
